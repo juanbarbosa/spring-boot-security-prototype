@@ -1,0 +1,7 @@
+logging:
+  level:
+    root: INFO
+    io.netty: OFF
+    #org.springframework.security.web.authentication.rememberme: DEBUG
+    #org.springframework.security.web.authentication.AbstractAuthenticationProcessingFilter: DEBUG
+    #org.springframework.security.authentication.RememberMeAuthenticationProvider: DEBUG
